@@ -24,7 +24,7 @@ This project was used as demonstration of vulnerabilities during my
 Running 
 =======
 
-Docker-compose
+Docker-compose 
 --------------
 
 DVPWA is packaged into docker container. All the dependencies described in
