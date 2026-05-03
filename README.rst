@@ -10,7 +10,7 @@ DVPWA -- Damn Vulnerable Python Web Application
    :align: center
    :target: https://stand-with-ukraine.pp.ua
 
-Description  
+Description
 ===========
 
 DVPWA was inspired by famous `dvwa`_ project and `bobby-tables xkcd comics`_.
